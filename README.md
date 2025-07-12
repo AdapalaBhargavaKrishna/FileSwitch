@@ -35,7 +35,7 @@
 ### Clone the repo
 
 ```bash
-git clone https://github.com/AdapalaBhargavaKrishna/Web-Development.git
+git clone https://github.com/AdapalaBhargavaKrishna/FileSwitch.git
 cd Web-Development/FileSwitch
 ```
 
