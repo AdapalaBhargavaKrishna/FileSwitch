@@ -2,7 +2,7 @@
 
 **File Switch** is a powerful file converter web app that allows users to convert **images**, **audio**, and **video** formats directly in the browser using `FFmpeg.wasm`. No uploads, no server — just fast, private, in-browser conversion.
 
-🌐 [Live Demo](https://fileswitch.vercel.app/) • 💻 [Source Code](https://github.com/AdapalaBhargavaKrishna/Web-Development)
+🌐 [Live Demo](https://fileswitch.vercel.app/) • 💻 [Source Code](https://github.com/AdapalaBhargavaKrishna/FileSwitch)
 
 ![FileSwitch Preview](https://adapalabhargavakrishna.github.io/Web-Development/Portfolio/assets/fileswitch.png)
 
